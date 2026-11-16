@@ -5,7 +5,6 @@
 **Project showcase:** Yunzhen Ye, in collaboration with Jiaping Xiao  
 **Research group:** Intelligent Cybernetics Lab, Nanyang Technological University, Singapore  
 **Supervisor:** Prof. Mir Feroskhan  
-**Publication status:** Manuscript under review at *Nature Communications*
 
 ## Algorithm Framework
 
@@ -29,13 +28,32 @@ The following videos present selected pursuit–evasion experiments across three
 
 ### Room 1
 
+
+
+https://github.com/user-attachments/assets/a0264f6b-f2ae-4384-8659-7f4eae50465a
+
+
+
+
 <!-- Insert the Room 1 simulation video here. -->
 
 ### Room 2
 
+
+
+https://github.com/user-attachments/assets/bfddc78e-6648-4846-a94e-72c1146e287b
+
+
+
 <!-- Insert the Room 2 simulation video here. -->
 
 ### Forest
+
+
+
+https://github.com/user-attachments/assets/d9265ed3-b13b-40a1-9d6e-245906590850
+
+
 
 <!-- Insert the Forest simulation video here. -->
 
@@ -47,13 +65,31 @@ The following three clips show selected portions of our physical multi-UAV exper
 
 ### Clip 1
 
+
+
+
+https://github.com/user-attachments/assets/2a402abc-a4b2-4e06-bb24-b3f9610436d0
+
+
 <!-- Insert the first real-world experiment clip here. -->
 
 ### Clip 2
 
+
+
+https://github.com/user-attachments/assets/56386b07-81e8-4f24-ab85-3931c8faad2e
+
+
+
 <!-- Insert the second real-world experiment clip here. -->
 
 ### Clip 3
+
+
+
+
+https://github.com/user-attachments/assets/a4aad85b-8cd2-4d46-b6db-03d87d7bb517
+
 
 <!-- Insert the third real-world experiment clip here. -->
 
