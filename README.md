@@ -8,6 +8,9 @@
 
 ## Algorithm Framework
 
+
+<img width="639" height="392" alt="ed874cd35819cf586b711e3b3fe8419" src="https://github.com/user-attachments/assets/e75e904e-2415-4d35-a1ea-aa5df5b1e8f7" />
+
 <!-- Insert the AAER algorithm architecture figure here. -->
 
 ## Overview
